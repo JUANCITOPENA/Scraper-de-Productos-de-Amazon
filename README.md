@@ -1,5 +1,3 @@
-Aquí tienes el contenido en formato Markdown para un archivo README.md:
-
 # Scraper de Productos de Amazon
 
 ## Descripción
